@@ -1,0 +1,4 @@
+a.links li:hover {
+    color: #70d5f3;
+    transition: all .25s ease-in-out;
+}
